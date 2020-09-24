@@ -10,6 +10,35 @@ namespace ConsoleApp1
             string temp = Console.ReadLine();
             Console.WriteLine(temp);
             Console.ReadLine();
+
+            /* add an if command here */
+
+
+            if (test = false)
+            { 
+            }
+
+
+
+            /* create a for loop here
+             * 
+             * 
+             * 
+             * 
+             * 
+             * 
+             * 
+             * 
+             * 
+             * 
+             * 
+             * 
+             * 
+             * 
+             * 
+             * 
+             */
+
         }
     }
 }
